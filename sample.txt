@@ -1,0 +1,81 @@
+Searching by bfs ...
+Minimum steps: 5, Total steps: 1118480
+Time taken by breadth first search: 15530117 microseconds
+
+Array 0 :
+0 0 0 0
+0 0 0 1
+0 1 0 1
+0 1 0 0
+
+Array 3 :
+0 1 0 0
+0 0 0 1
+0 0 0 1
+0 1 0 0
+
+Array 56 :
+0 1 0 1
+0 0 0 1
+0 0 0 0
+0 1 0 0
+
+Array 905 :
+1 0 1 0
+0 0 0 1
+0 0 0 0
+0 1 0 0
+
+Array 14483 :
+1 1 1 0
+0 0 0 1
+0 0 0 0
+0 0 0 0
+
+Array 231736 :
+1 1 1 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+
+
+Searching by A* search ...
+Minimum steps: 5, Total steps: 96
+Time taken by A* search: 1668 microseconds
+
+Array 0 :
+0 0 0 0
+0 0 0 1
+0 1 0 1
+0 1 0 0
+
+Array 3 :
+0 1 0 0
+0 0 0 1
+0 0 0 1
+0 1 0 0
+
+Array 24 :
+0 1 0 1
+0 0 0 1
+0 0 0 0
+0 1 0 0
+
+Array 41 :
+1 0 1 0
+0 0 0 1
+0 0 0 0
+0 1 0 0
+
+Array 51 :
+1 1 1 0
+0 0 0 1
+0 0 0 0
+0 0 0 0
+
+Array 88 :
+1 1 1 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+
