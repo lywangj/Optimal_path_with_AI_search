@@ -1,7 +1,6 @@
 ### Optimal_path_with_AI_search
 
-Implement A* search, consuming less than 0.1 second of searching time and reaching 10k faster than simple breadth-first search.
-
+Implement an efficient search system with Artificial Intelligent search algorithms (greedy best-first search and A* search) for path search engine in C++, consuming only 0.01% of searching time and memory usage as compared with another approach with breadth-first search.
 
 ```
 Searching by bfs ...
@@ -13,6 +12,7 @@ Minimum steps: 5, Total steps: 96
 Time taken by A* search: 1668 microseconds
 ```
 
+**Optimal path**:
 ```
 Array 0 :
 0 0 0 0
@@ -20,31 +20,31 @@ Array 0 :
 0 1 0 1
 0 1 0 0
 
-Array 3 :
+Array 1 :
 0 1 0 0
 0 0 0 1
 0 0 0 1
 0 1 0 0
 
-Array 24 :
+Array 2 :
 0 1 0 1
 0 0 0 1
 0 0 0 0
 0 1 0 0
 
-Array 41 :
+Array 3 :
 1 0 1 0
 0 0 0 1
 0 0 0 0
 0 1 0 0
 
-Array 51 :
+Array 4 :
 1 1 1 0
 0 0 0 1
 0 0 0 0
 0 0 0 0
 
-Array 88 :
+Array 5 :
 1 1 1 1
 0 0 0 0
 0 0 0 0
